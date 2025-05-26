@@ -1,0 +1,23 @@
+
+---
+
+## 🧪 Sample Data
+Add at least 5-10 images (e.g., `top1.jpg`, `pants1.jpg`, `jacket1.jpg`) to `outfits/` folder to test similarity and matching.
+
+---
+
+## ✅ How to Use in VS Code & GitHub
+1. Clone the repo or create a folder and copy this code.
+2. Run `pip install -r requirements.txt` (no venv needed).
+3. Run `streamlit run app.py`.
+4. Upload your clothing item image.
+5. View style matches and tips.
+
+---
+
+Would you like me to:
+- Generate this as a downloadable ZIP?
+- Add advanced similarity using OpenAI’s CLIP?
+- Add a feature to generate captions for Instagram?
+
+Let me know!
